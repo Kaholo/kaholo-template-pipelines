@@ -2,7 +2,7 @@
 This pipeline creates a repo and a directory for it on the agent.
 Than creates all the reuired files for a kaholo plugin, generated from a plugin configuration file provided to it.
 
-![Build Kaholo Plugin Pipeline Image](https://github.com/kaholo/kaholo-template-pipelines/blob/main/pipelineImage.png?raw=true)
+![Build Kaholo Plugin Pipeline Image](https://github.com/kaholo/kaholo-template-pipelines/blob/main/CreatePluginPipeline/pipelineImage.png?raw=true)
 
 ## Requirments
 In order to have this pipeline working you need to have:
